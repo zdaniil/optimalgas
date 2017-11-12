@@ -1,0 +1,11 @@
+[07-Dec-2016 23:44:13 UTC] PHP Fatal error:  Call to undefined function zip_open() in /home/optim126/public_html/admin/controller/extension/installer.php on line 120
+[07-Dec-2016 23:46:38 UTC] PHP Fatal error:  Call to undefined function zip_open() in /home/optim126/public_html/admin/controller/extension/installer.php on line 120
+[07-Dec-2016 23:50:24 UTC] PHP Fatal error:  Call to undefined function zip_open() in /home/optim126/public_html/admin/controller/extension/installer.php on line 120
+[28-Jul-2017 12:21:25 UTC] PHP Warning:  require_once(/home/optim126/public_html/system/startup.php): failed to open stream: No such file or directory in /home/optim126/public_html/admin/index.php on line 17
+[28-Jul-2017 12:21:25 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/optim126/public_html/system/startup.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/optim126/public_html/admin/index.php on line 17
+[28-Jul-2017 12:21:30 UTC] PHP Warning:  require_once(/home/optim126/public_html/system/startup.php): failed to open stream: No such file or directory in /home/optim126/public_html/admin/index.php on line 17
+[28-Jul-2017 12:21:30 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/optim126/public_html/system/startup.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/optim126/public_html/admin/index.php on line 17
+[28-Jul-2017 12:21:35 UTC] PHP Warning:  require_once(/home/optim126/public_html/system/startup.php): failed to open stream: No such file or directory in /home/optim126/public_html/admin/index.php on line 17
+[28-Jul-2017 12:21:35 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/optim126/public_html/system/startup.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/optim126/public_html/admin/index.php on line 17
+[28-Jul-2017 12:23:49 UTC] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/optim126/public_html/admin/controller/extension/modification.php on line 152
+[28-Jul-2017 12:48:53 UTC] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/optim126/public_html/admin/controller/extension/modification.php on line 152

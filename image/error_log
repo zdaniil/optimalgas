@@ -1,0 +1,11 @@
+[15-Mar-2017 06:43:46 UTC] PHP Warning:  imagecreatefrompng(): '/home/optim126/public_html/image/catalog/products/2017/03/150643/watermarked - narujnyiy tor ngza znak.png' is not a valid PNG file in /home/optim126/public_html/system/library/uploader.php on line 572
+[15-Mar-2017 06:43:46 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/optim126/public_html/system/library/uploader.php on line 732
+[15-Mar-2017 06:43:46 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/optim126/public_html/system/library/uploader.php on line 733
+[15-Mar-2017 06:43:46 UTC] PHP Warning:  Division by zero in /home/optim126/public_html/system/library/uploader.php on line 741
+[15-Mar-2017 06:43:46 UTC] PHP Warning:  Division by zero in /home/optim126/public_html/system/library/uploader.php on line 743
+[15-Mar-2017 06:43:46 UTC] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/optim126/public_html/system/library/uploader.php on line 758
+[15-Mar-2017 06:43:46 UTC] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home/optim126/public_html/system/library/uploader.php on line 775
+[15-Mar-2017 06:43:46 UTC] PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in /home/optim126/public_html/system/library/uploader.php on line 775
+[15-Mar-2017 06:43:46 UTC] PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/optim126/public_html/system/library/uploader.php on line 777
+[15-Mar-2017 06:43:46 UTC] PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/optim126/public_html/system/library/uploader.php on line 778
+[15-Mar-2017 06:43:46 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/optim126/public_html/system/library/uploader.php on line 792

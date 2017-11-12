@@ -1,0 +1,77 @@
+[08-Dec-2016 00:19:39 UTC] PHP Fatal error:  Call to undefined function php_info() in /home/optim126/public_html/info.php on line 3
+[08-Dec-2016 00:19:43 UTC] PHP Fatal error:  Call to undefined function php_info() in /home/optim126/public_html/info.php on line 3
+[08-Dec-2016 00:19:44 UTC] PHP Fatal error:  Call to undefined function php_info() in /home/optim126/public_html/info.php on line 3
+[08-Dec-2016 00:19:44 UTC] PHP Fatal error:  Call to undefined function php_info() in /home/optim126/public_html/info.php on line 3
+[08-Dec-2016 00:19:44 UTC] PHP Fatal error:  Call to undefined function php_info() in /home/optim126/public_html/info.php on line 3
+[08-Dec-2016 20:16:29 UTC] PHP Notice:  Undefined variable: formData in /home/optim126/public_html/mail.php on line 20
+[08-Dec-2016 20:16:29 UTC] PHP Notice:  Undefined variable: formData in /home/optim126/public_html/mail.php on line 21
+[08-Dec-2016 20:16:29 UTC] PHP Notice:  Undefined variable: email in /home/optim126/public_html/mail.php on line 21
+[08-Dec-2016 20:16:29 UTC] PHP Notice:  Undefined variable: message in /home/optim126/public_html/mail.php on line 22
+[09-Dec-2016 12:51:34 UTC] PHP Notice:  Undefined variable: formData in /home/optim126/public_html/mail.php on line 20
+[09-Dec-2016 12:51:34 UTC] PHP Notice:  Undefined variable: formData in /home/optim126/public_html/mail.php on line 21
+[09-Dec-2016 12:51:34 UTC] PHP Notice:  Undefined variable: phone in /home/optim126/public_html/mail.php on line 22
+[15-Dec-2016 13:37:01 UTC] PHP Notice:  Undefined variable: formData in /home/optim126/public_html/mail.php on line 20
+[15-Dec-2016 13:37:01 UTC] PHP Notice:  Undefined variable: formData in /home/optim126/public_html/mail.php on line 21
+[15-Dec-2016 13:37:01 UTC] PHP Notice:  Undefined variable: email in /home/optim126/public_html/mail.php on line 21
+[15-Dec-2016 13:37:01 UTC] PHP Notice:  Undefined variable: message in /home/optim126/public_html/mail.php on line 22
+[15-Dec-2016 13:37:23 UTC] PHP Notice:  Undefined variable: formData in /home/optim126/public_html/mail.php on line 20
+[15-Dec-2016 13:37:23 UTC] PHP Notice:  Undefined variable: formData in /home/optim126/public_html/mail.php on line 21
+[15-Dec-2016 13:37:23 UTC] PHP Notice:  Undefined variable: email in /home/optim126/public_html/mail.php on line 21
+[15-Dec-2016 13:37:23 UTC] PHP Notice:  Undefined variable: message in /home/optim126/public_html/mail.php on line 22
+[06-Feb-2017 07:08:50 UTC] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/optim126/public_html/system/storage/modification/system/library/db/mysqli.php on line 7
+[06-Feb-2017 07:08:50 UTC] PHP Notice:  Error: Could not make a database link (1040) Too many connections in /home/optim126/public_html/system/storage/modification/system/library/db/mysqli.php on line 10
+[06-Feb-2017 07:08:53 UTC] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/optim126/public_html/system/storage/modification/system/library/db/mysqli.php on line 7
+[06-Feb-2017 07:08:53 UTC] PHP Notice:  Error: Could not make a database link (1040) Too many connections in /home/optim126/public_html/system/storage/modification/system/library/db/mysqli.php on line 10
+[28-Feb-2017 07:22:56 UTC] PHP Notice:  Undefined variable: formData in /home/optim126/public_html/mail.php on line 20
+[28-Feb-2017 07:22:56 UTC] PHP Notice:  Undefined variable: formData in /home/optim126/public_html/mail.php on line 21
+[28-Feb-2017 07:22:56 UTC] PHP Notice:  Undefined variable: email in /home/optim126/public_html/mail.php on line 21
+[28-Feb-2017 07:22:56 UTC] PHP Notice:  Undefined variable: message in /home/optim126/public_html/mail.php on line 22
+[10-Apr-2017 08:43:17 UTC] PHP Notice:  Undefined variable: formData in /home/optim126/public_html/mail.php on line 20
+[10-Apr-2017 08:43:17 UTC] PHP Notice:  Undefined variable: formData in /home/optim126/public_html/mail.php on line 21
+[10-Apr-2017 08:43:17 UTC] PHP Notice:  Undefined variable: phone in /home/optim126/public_html/mail.php on line 22
+[15-Jun-2017 10:45:58 UTC] PHP Notice:  Undefined variable: formData in /home/optim126/public_html/mail.php on line 20
+[15-Jun-2017 10:45:58 UTC] PHP Notice:  Undefined variable: formData in /home/optim126/public_html/mail.php on line 21
+[15-Jun-2017 10:45:58 UTC] PHP Notice:  Undefined variable: email in /home/optim126/public_html/mail.php on line 21
+[15-Jun-2017 10:45:58 UTC] PHP Notice:  Undefined variable: message in /home/optim126/public_html/mail.php on line 22
+[12-Jul-2017 16:07:58 UTC] PHP Notice:  Undefined variable: formData in /home/optim126/public_html/mail.php on line 20
+[12-Jul-2017 16:07:58 UTC] PHP Notice:  Undefined variable: formData in /home/optim126/public_html/mail.php on line 21
+[12-Jul-2017 16:07:58 UTC] PHP Notice:  Undefined variable: email in /home/optim126/public_html/mail.php on line 21
+[12-Jul-2017 16:07:58 UTC] PHP Notice:  Undefined variable: message in /home/optim126/public_html/mail.php on line 22
+[14-Jul-2017 13:46:33 UTC] PHP Notice:  Undefined variable: formData in /home/optim126/public_html/mail.php on line 20
+[14-Jul-2017 13:46:33 UTC] PHP Notice:  Undefined variable: formData in /home/optim126/public_html/mail.php on line 21
+[14-Jul-2017 13:46:33 UTC] PHP Notice:  Undefined variable: phone in /home/optim126/public_html/mail.php on line 22
+[14-Jul-2017 13:47:47 UTC] PHP Notice:  Undefined variable: formData in /home/optim126/public_html/mail.php on line 20
+[14-Jul-2017 13:47:47 UTC] PHP Notice:  Undefined variable: formData in /home/optim126/public_html/mail.php on line 21
+[14-Jul-2017 13:47:47 UTC] PHP Notice:  Undefined variable: phone in /home/optim126/public_html/mail.php on line 22
+[20-Jul-2017 10:28:01 UTC] PHP Notice:  Undefined variable: formData in /home/optim126/public_html/mail.php on line 20
+[20-Jul-2017 10:28:01 UTC] PHP Notice:  Undefined variable: formData in /home/optim126/public_html/mail.php on line 21
+[20-Jul-2017 10:28:01 UTC] PHP Notice:  Undefined variable: phone in /home/optim126/public_html/mail.php on line 22
+[21-Jul-2017 16:57:07 UTC] PHP Notice:  Undefined variable: formData in /home/optim126/public_html/mail.php on line 20
+[21-Jul-2017 16:57:07 UTC] PHP Notice:  Undefined variable: formData in /home/optim126/public_html/mail.php on line 21
+[21-Jul-2017 16:57:07 UTC] PHP Notice:  Undefined variable: email in /home/optim126/public_html/mail.php on line 21
+[21-Jul-2017 16:57:07 UTC] PHP Notice:  Undefined variable: message in /home/optim126/public_html/mail.php on line 22
+[22-Jul-2017 19:39:22 UTC] PHP Warning:  require_once(/home/optim126/public_html/system/startup.php): failed to open stream: No such file or directory in /home/optim126/public_html/index.php on line 17
+[22-Jul-2017 19:39:22 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/optim126/public_html/system/startup.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/optim126/public_html/index.php on line 17
+[22-Jul-2017 19:39:26 UTC] PHP Warning:  require_once(/home/optim126/public_html/system/startup.php): failed to open stream: No such file or directory in /home/optim126/public_html/index.php on line 17
+[22-Jul-2017 19:39:26 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/optim126/public_html/system/startup.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/optim126/public_html/index.php on line 17
+[22-Jul-2017 19:39:32 UTC] PHP Warning:  require_once(/home/optim126/public_html/system/startup.php): failed to open stream: No such file or directory in /home/optim126/public_html/index.php on line 17
+[22-Jul-2017 19:39:32 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/optim126/public_html/system/startup.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/optim126/public_html/index.php on line 17
+[27-Jul-2017 09:13:27 UTC] PHP Notice:  Undefined variable: formData in /home/optim126/public_html/mail.php on line 20
+[27-Jul-2017 09:13:27 UTC] PHP Notice:  Undefined variable: formData in /home/optim126/public_html/mail.php on line 21
+[27-Jul-2017 09:13:27 UTC] PHP Notice:  Undefined variable: phone in /home/optim126/public_html/mail.php on line 22
+[27-Jul-2017 13:58:19 UTC] PHP Notice:  Undefined variable: formData in /home/optim126/public_html/mail.php on line 20
+[27-Jul-2017 13:58:19 UTC] PHP Notice:  Undefined variable: formData in /home/optim126/public_html/mail.php on line 21
+[27-Jul-2017 13:58:19 UTC] PHP Notice:  Undefined variable: phone in /home/optim126/public_html/mail.php on line 22
+[28-Jul-2017 12:21:41 UTC] PHP Warning:  require_once(/home/optim126/public_html/system/startup.php): failed to open stream: No such file or directory in /home/optim126/public_html/index.php on line 17
+[28-Jul-2017 12:21:41 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/optim126/public_html/system/startup.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/optim126/public_html/index.php on line 17
+[28-Jul-2017 12:22:20 UTC] PHP Fatal error:  Class 'Controllercommoncolumnright' not found in /home/optim126/public_html/system/storage/modification/system/engine/loader.php on line 28
+[29-Jul-2017 16:41:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi_replace() in /home/optim126/public_html/catalog/view/theme/default/template/module/special.tpl:17
+Stack trace:
+#0 /home/optim126/public_html/system/storage/modification/system/engine/loader.php(80): require()
+#1 /home/optim126/public_html/catalog/controller/module/special.php(75): Loader->view('default/templat...', Array)
+#2 /home/optim126/public_html/system/storage/modification/system/engine/loader.php(42): ControllerModuleSpecial->index(Array)
+#3 /home/optim126/public_html/system/storage/modification/catalog/controller/common/content_bottom.php(74): Loader->controller('module/special', Array)
+#4 /home/optim126/public_html/system/storage/modification/system/engine/loader.php(42): ControllerCommonContentBottom->index(Array)
+#5 /home/optim126/public_html/catalog/controller/common/home.php(15): Loader->controller('common/content_...')
+#6 /home/optim126/public_html/system/storage/modification/system/engine/action.php(46): ControllerCommonHome->index(Array)
+#7 /hom in /home/optim126/public_html/catalog/view/theme/default/template/module/special.tpl on line 17
